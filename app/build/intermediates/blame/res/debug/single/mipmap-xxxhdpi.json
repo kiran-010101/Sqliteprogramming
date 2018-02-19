@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/kiran/Downloads/androidstudioproject/ud851-Sunshine/Sqliteprogramming/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/home/kiran/Downloads/androidstudioproject/ud851-Sunshine/Sqliteprogramming/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/kiran/Downloads/androidstudioproject/ud851-Sunshine/Sqliteprogramming/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/home/kiran/Downloads/androidstudioproject/ud851-Sunshine/Sqliteprogramming/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    }
+]

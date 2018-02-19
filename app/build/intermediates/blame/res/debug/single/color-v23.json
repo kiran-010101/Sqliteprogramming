@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/kiran/Downloads/androidstudioproject/ud851-Sunshine/Sqliteprogramming/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/kiran/.android/build-cache/6984271da84ef0f8ec4c9d89b0e25bc13312b114/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/kiran/Downloads/androidstudioproject/ud851-Sunshine/Sqliteprogramming/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/kiran/.android/build-cache/6984271da84ef0f8ec4c9d89b0e25bc13312b114/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/kiran/Downloads/androidstudioproject/ud851-Sunshine/Sqliteprogramming/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/kiran/.android/build-cache/6984271da84ef0f8ec4c9d89b0e25bc13312b114/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/kiran/Downloads/androidstudioproject/ud851-Sunshine/Sqliteprogramming/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/kiran/.android/build-cache/6984271da84ef0f8ec4c9d89b0e25bc13312b114/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/kiran/Downloads/androidstudioproject/ud851-Sunshine/Sqliteprogramming/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/kiran/.android/build-cache/6984271da84ef0f8ec4c9d89b0e25bc13312b114/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/kiran/Downloads/androidstudioproject/ud851-Sunshine/Sqliteprogramming/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/kiran/.android/build-cache/6984271da84ef0f8ec4c9d89b0e25bc13312b114/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/kiran/Downloads/androidstudioproject/ud851-Sunshine/Sqliteprogramming/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/kiran/.android/build-cache/6984271da84ef0f8ec4c9d89b0e25bc13312b114/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/kiran/Downloads/androidstudioproject/ud851-Sunshine/Sqliteprogramming/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/kiran/.android/build-cache/6984271da84ef0f8ec4c9d89b0e25bc13312b114/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/kiran/Downloads/androidstudioproject/ud851-Sunshine/Sqliteprogramming/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/kiran/.android/build-cache/6984271da84ef0f8ec4c9d89b0e25bc13312b114/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/kiran/Downloads/androidstudioproject/ud851-Sunshine/Sqliteprogramming/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/kiran/.android/build-cache/6984271da84ef0f8ec4c9d89b0e25bc13312b114/output/res/color-v23/abc_tint_edittext.xml"
+    }
+]

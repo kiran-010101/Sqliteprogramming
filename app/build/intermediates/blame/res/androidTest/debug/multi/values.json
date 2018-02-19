@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/kiran/Downloads/androidstudioproject/ud851-Sunshine/Sqliteprogramming/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/home/kiran/.android/build-cache/fd01df9cb237f2c6dbd73ec6cd94727ea0235947/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]

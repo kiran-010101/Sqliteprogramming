@@ -1,0 +1,4 @@
+#Sat Nov 11 18:43:24 NPT 2017
+base.0=/home/kiran/Downloads/androidstudioproject/ud851-Sunshine/Sqliteprogramming/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/kiran/Downloads/androidstudioproject/ud851-Sunshine/Sqliteprogramming/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

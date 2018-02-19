@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/kiran/Downloads/androidstudioproject/ud851-Sunshine/Sqliteprogramming/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/kiran/.android/build-cache/6984271da84ef0f8ec4c9d89b0e25bc13312b114/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/kiran/Downloads/androidstudioproject/ud851-Sunshine/Sqliteprogramming/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/kiran/.android/build-cache/6984271da84ef0f8ec4c9d89b0e25bc13312b114/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/kiran/Downloads/androidstudioproject/ud851-Sunshine/Sqliteprogramming/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/kiran/.android/build-cache/6984271da84ef0f8ec4c9d89b0e25bc13312b114/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/kiran/Downloads/androidstudioproject/ud851-Sunshine/Sqliteprogramming/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/kiran/.android/build-cache/6984271da84ef0f8ec4c9d89b0e25bc13312b114/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/kiran/Downloads/androidstudioproject/ud851-Sunshine/Sqliteprogramming/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/kiran/.android/build-cache/6984271da84ef0f8ec4c9d89b0e25bc13312b114/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/kiran/Downloads/androidstudioproject/ud851-Sunshine/Sqliteprogramming/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/kiran/.android/build-cache/6984271da84ef0f8ec4c9d89b0e25bc13312b114/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/kiran/Downloads/androidstudioproject/ud851-Sunshine/Sqliteprogramming/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/kiran/.android/build-cache/6984271da84ef0f8ec4c9d89b0e25bc13312b114/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/kiran/Downloads/androidstudioproject/ud851-Sunshine/Sqliteprogramming/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/kiran/.android/build-cache/6984271da84ef0f8ec4c9d89b0e25bc13312b114/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/kiran/Downloads/androidstudioproject/ud851-Sunshine/Sqliteprogramming/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/kiran/.android/build-cache/6984271da84ef0f8ec4c9d89b0e25bc13312b114/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/kiran/Downloads/androidstudioproject/ud851-Sunshine/Sqliteprogramming/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/kiran/.android/build-cache/6984271da84ef0f8ec4c9d89b0e25bc13312b114/output/res/anim/abc_slide_out_bottom.xml"
+    }
+]
